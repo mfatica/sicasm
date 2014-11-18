@@ -2,6 +2,16 @@
 Thumbs.db
 ehthumbs.db
 
+# Output Files
+*.asm
+*.lst
+*.obj
+
+# IntelliJ Files
+.idea
+out
+*.iml
+
 # Folder config file
 Desktop.ini
 
